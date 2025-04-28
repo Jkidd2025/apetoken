@@ -1,0 +1,47 @@
+{
+    "name": "Ape Armor",
+    "symbol": "APE", 
+    "description": "Ape Armor token is a utility to access the subscription services for protecting customers against scams, rug pulls, and exploits",
+    "image": "assets/token.png",
+    "image_specifications": {
+        "width": 1000,
+        "height": 1000,
+        "format": "png",
+        "recommended_max_size_mb": 5,
+        "dpi": 72,
+        "color_space": "RGB",
+        "aspect_ratio": "1:1"
+    },
+    "external_url": "https://www.apearmorsecure.com",
+    "attributes": [
+        {
+            "trait_type": "Token Type",
+            "value": "Utility"
+        },
+        {
+            "trait_type": "Supply",
+            "value": "1000000000"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "9"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/token.png",
+                "type": "image/png",
+                "cdn": false
+            }
+        ],
+        "category": "image"
+    },
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "YOUR_CREATOR_WALLET_ADDRESS",
+            "share": 100
+        }
+    ]
+} 

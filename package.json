@@ -1,0 +1,27 @@
+{
+  "name": "ape-armor",
+  "version": "1.0.0",
+  "description": "Ape Armor SPL Token for subscription services",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "test-rpc": "ts-node src/test-rpc.ts",
+    "validate-image": "ts-node src/validate-image.ts"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-auth-rules": "^1.0.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi": "^0.8.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.8.0",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.87.6",
+    "dotenv": "^16.3.1",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
