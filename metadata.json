@@ -2,7 +2,7 @@
     "name": "Ape Armor",
     "symbol": "APE", 
     "description": "Ape Armor token is a utility to access the subscription services for protecting customers against scams, rug pulls, and exploits",
-    "image": "https://github.com/Jkidd2025/apetoken/blob/main/assets/token.png",
+    "image": "https://raw.githubusercontent.com/Jkidd2025/apetoken/main/assets/token.png",
     "image_specifications": {
         "width": 1000,
         "height": 1000,
@@ -30,7 +30,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://github.com/Jkidd2025/apetoken/blob/main/assets/token.png",
+                "uri": "https://raw.githubusercontent.com/Jkidd2025/apetoken/main/assets/token.png",
                 "type": "image/png",
                 "cdn": false
             }
@@ -40,7 +40,7 @@
     "seller_fee_basis_points": 0,
     "creators": [
         {
-            "address": "98cQDHk8p26p2TWFnRJYa21CXVwGRnZMN1RR8cX2Dpt6",
+            "address": "31ruwAkBWN5aBkf6bMsbqjmBXymqebMi1SWnD8gvL7UL",
             "share": 100
         }
     ]
